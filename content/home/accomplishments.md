@@ -2,6 +2,14 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
+ - certificate_url: /uploads/Certificates/Coursera_genAI.pdf
+    date_end: ""
+    date_start: 2026-10-03
+    description: The course aims to develop skills to build apps using frameworks and pre-trained foundation models such as BERT, GPT, and LLaMA. The use the Hugging Face transformers library, PyTorch deep learning library, RAG and LangChain framework to develop and deploy LLM NLP-based apps. Plus, it explores tokenization, data loaders, language and embedding models, transformer techniques, attention mechanisms, and prompt engineering. 
+    organization: Coursera, IBM
+    organization_url: https://www.coursera.org/specializations/generative-ai-engineering-with-llms
+    title: Generative AI Engineering with LLMs Specialization
+    url: ""
   - certificate_url: /uploads/Certificates/GameDesign.png
     date_end: ""
     date_start: 2021-11-01
